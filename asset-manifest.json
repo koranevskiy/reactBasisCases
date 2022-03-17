@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactBasisCases/static/css/main.cfefff13.css",
+    "main.js": "/reactBasisCases/static/js/main.a1736f6d.js",
+    "static/js/787.75839425.chunk.js": "/reactBasisCases/static/js/787.75839425.chunk.js",
+    "index.html": "/reactBasisCases/index.html",
+    "main.cfefff13.css.map": "/reactBasisCases/static/css/main.cfefff13.css.map",
+    "main.a1736f6d.js.map": "/reactBasisCases/static/js/main.a1736f6d.js.map",
+    "787.75839425.chunk.js.map": "/reactBasisCases/static/js/787.75839425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfefff13.css",
+    "static/js/main.a1736f6d.js"
+  ]
+}
