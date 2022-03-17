@@ -1,0 +1,16 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.pagination__buttons + .pagination__buttons {
+    margin-left: 10px;
+}
+
+.pagination__buttons.current button {
+    font-weight: bold;
+    color: gold;
+    box-shadow: 2px 2px 8px #01101a;
+}
+
